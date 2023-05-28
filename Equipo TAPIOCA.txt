@@ -1,4 +1,8 @@
--- Axel Felipe Reyes Valadez
--- Jesus Manuel Arellano Merendon
--- Luis Daniel Delgado Enriquez
--- Luis Angel Soto Hernendez
+Equipo : Tapioca
+
+Integrantes:
+
+Axel Felipe Reyes Valadez 21550156
+Luis Angel Soto Hernandez 21550255
+Luis Daniel Delgado Enriquez 21550145
+Jesus Manuel Arellano Merendon 21550158
